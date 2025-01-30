@@ -7,12 +7,12 @@ main {
     font-family: system-ui;
 }
 
-section {
+/* section {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 2rem
-}
+} */
 
 section img {
     max-width: 320px;
